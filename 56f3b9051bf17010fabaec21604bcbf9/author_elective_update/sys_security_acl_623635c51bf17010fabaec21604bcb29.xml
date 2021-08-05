@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_675702_contact_t_contact_tracing_table</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 10:32:16</sys_created_on>
+        <sys_id>623635c51bf17010fabaec21604bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_675702_contact_t_contact_tracing_table</sys_name>
+        <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+        <sys_update_name>sys_security_acl_623635c51bf17010fabaec21604bcb29</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 10:32:16</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</application>
+        <file_path/>
+        <instance_id>b9ca2c10db04f410431011f8489619e8</instance_id>
+        <instance_name>dev113546</instance_name>
+        <name>sys_security_acl_623635c51bf17010fabaec21604bcb29</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_675702_contact_t_contact_tracing_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-04 10:32:16</sys_created_on><sys_id>623635c51bf17010fabaec21604bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_675702_contact_t_contact_tracing_table</sys_name><sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package><sys_policy/><sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope><sys_update_name>sys_security_acl_623635c51bf17010fabaec21604bcb29</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-04 10:32:16</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>350368478</payload_hash>
+        <record_name>x_675702_contact_t_contact_tracing_table</record_name>
+        <reverted_from/>
+        <source>1ef3b9051bf17010fabaec21604bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 10:32:16</sys_created_on>
+        <sys_id>aa3635c51bf17010fabaec21604bcb2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b10b890630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 10:32:16</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>e23635c57df170105bddc1387db4022b</update_guid>
+        <update_guid_history>e23635c57df170105bddc1387db4022b:350368478</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 11:38:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>0572ba17a0e74a68b1d54fd396bd7510</sys_id>
+        <sys_metadata>623635c51bf17010fabaec21604bcb29</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_675702_contact_t_contact_tracing_table</sys_name>
+        <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+        <sys_parent display_value="">3936f1c51bf17010fabaec21604bcba1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+        <sys_scope_delete display_value="">7c29b55464fa4b10bf970b92ee962a40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_623635c51bf17010fabaec21604bcb29</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_623635c51bf17010fabaec21604bcb29">aa3635c51bf17010fabaec21604bcb2b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 11:38:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

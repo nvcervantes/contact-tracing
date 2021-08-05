@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Contact Tracing" max_length="40" name="x_675702_contact_t_contact_tracing" sizeclass="0" type="collection">
+        <element label="Employee Name" mandatory="true" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Assigned Group" max_length="32" name="u_assigned_group_9" reference="sys_user_group" type="reference"/>
+        <element label="Travel History" max_length="40" name="u_boolean_5" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Symptoms" max_length="40" name="u_choice_8" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Headache" sequence="0" value="headache"/>
+                <element inactive_on_update="false" label="Lack of Smell" sequence="1" value="lack of smell"/>
+                <element inactive_on_update="false" label="Lack of Taste" sequence="2" value="lack of taste"/>
+                <element inactive_on_update="false" label="Dry Cough" sequence="3" value="dry cough"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Location" mandatory="true" max_length="40" name="u_location_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Uptown Tower 2" sequence="0" value="Uptown Tower 2"/>
+                <element inactive_on_update="false" label="Uptown Tower 3" sequence="1" value="Uptown Tower 3"/>
+                <element inactive_on_update="false" label="Cybergate Tower 1" sequence="2" value="Cybergate Tower 1"/>
+                <element inactive_on_update="false" label="Cybergate Tower 2" sequence="3" value="Cybergate Tower 2"/>
+                <element inactive_on_update="false" label="Cybergate Tower 3" sequence="4" value="Cybergate Tower 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Contact Number" mandatory="true" max_length="11" name="u_string_3" type="string"/>
+        <element label="Temperature" mandatory="true" max_length="15" name="u_temperature_2" type="decimal"/>
+    </element>
+</database>

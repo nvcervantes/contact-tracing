@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Contact Tracing Application">495675c51bf17010fabaec21604bcb76</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>sys_users</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_675702_contact_t_sys_user</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_675702_contact_t.acn_contact_tracer,x_675702_contact_t.acn_contact_tracer_admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 10:54:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>244bbd891bf17010fabaec21604bcb60</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Contact Tracing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+        <sys_update_name>sys_app_module_244bbd891bf17010fabaec21604bcb60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-05 06:03:50</sys_updated_on>
+        <timeline_page/>
+        <title>Contact Tracing</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</application>
+        <file_path/>
+        <instance_id>b9ca2c10db04f410431011f8489619e8</instance_id>
+        <instance_name>dev113546</instance_name>
+        <name>sys_app_module_244bbd891bf17010fabaec21604bcb60</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Contact Tracing Application">495675c51bf17010fabaec21604bcb76</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>sys_users</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_675702_contact_t_sys_user</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_675702_contact_t.acn_contact_tracer,x_675702_contact_t.acn_contact_tracer_admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-04 10:54:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>244bbd891bf17010fabaec21604bcb60</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Contact Tracing</sys_name><sys_overrides/><sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package><sys_policy/><sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope><sys_update_name>sys_app_module_244bbd891bf17010fabaec21604bcb60</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-05 06:03:50</sys_updated_on><timeline_page/><title>Contact Tracing</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2037343242</payload_hash>
+        <record_name>Contact Tracing</record_name>
+        <reverted_from/>
+        <source>1ef3b9051bf17010fabaec21604bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-05 06:03:50</sys_created_on>
+        <sys_id>1062c6d91bb13010fabaec21604bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b14e92d070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-05 06:03:50</sys_updated_on>
+        <type>Module</type>
+        <update_guid>106286d915b13010f89044182893de69</update_guid>
+        <update_guid_history>106286d915b13010f89044182893de69:2037343242,e6d44681d7357010f5a74c24c7c95ae1:-299769333,ac4bbd8946f170104dc7f17611d5b961:898674059</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Contact Tracing">bdc24ed91bb13010fabaec21604bcb78</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-05 06:05:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>13a3bf7767a9497e83346b9b6160d8c1</sys_id>
+        <sys_metadata>244bbd891bf17010fabaec21604bcb60</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contact Tracing</sys_name>
+        <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+        <sys_scope_delete display_value="">7c29b55464fa4b10bf970b92ee962a40</sys_scope_delete>
+        <sys_update_name>sys_app_module_244bbd891bf17010fabaec21604bcb60</sys_update_name>
+        <sys_update_version display_value="sys_app_module_244bbd891bf17010fabaec21604bcb60">1062c6d91bb13010fabaec21604bcb7b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-05 06:05:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Role for contact tracers</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_675702_contact_t.acn_contact_tracer</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>acn_contact_tracer</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-05 04:10:30</sys_created_on>
+        <sys_id>f948edd11b713010fabaec21604bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_675702_contact_t.acn_contact_tracer</sys_name>
+        <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+        <sys_update_name>sys_user_role_f948edd11b713010fabaec21604bcb6e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-05 04:10:30</sys_updated_on>
+    </sys_user_role>
+</record_update>

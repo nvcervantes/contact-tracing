@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Contact Tracing Application">495675c51bf17010fabaec21604bcb76</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_675702_contact_t_contact_tracing_table</name>
+        <order>8</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 10:32:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>055675c51bf17010fabaec21604bcb8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+        <sys_update_name>sys_app_module_055675c51bf17010fabaec21604bcb8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 10:32:42</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</application>
+        <file_path/>
+        <instance_id>b9ca2c10db04f410431011f8489619e8</instance_id>
+        <instance_name>dev113546</instance_name>
+        <name>sys_app_module_055675c51bf17010fabaec21604bcb8a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Contact Tracing Application">495675c51bf17010fabaec21604bcb76</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_675702_contact_t_contact_tracing_table</name><order>8</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-04 10:32:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>055675c51bf17010fabaec21604bcb8a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package><sys_policy/><sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope><sys_update_name>sys_app_module_055675c51bf17010fabaec21604bcb8a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-04 10:32:42</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>964232428</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>1ef3b9051bf17010fabaec21604bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 10:32:42</sys_created_on>
+        <sys_id>015675c51bf17010fabaec21604bcb8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b10b8f7300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 10:32:42</sys_updated_on>
+        <type>Module</type>
+        <update_guid>495675c599f1701016c2bb4e29900c8b</update_guid>
+        <update_guid_history>495675c599f1701016c2bb4e29900c8b:964232428</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">11654e811b357010fabaec21604bcb0f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 11:38:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5eb85ed209224b6e92042287b5a81939</sys_id>
+        <sys_metadata>055675c51bf17010fabaec21604bcb8a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+        <sys_scope_delete display_value="">7c29b55464fa4b10bf970b92ee962a40</sys_scope_delete>
+        <sys_update_name>sys_app_module_055675c51bf17010fabaec21604bcb8a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_055675c51bf17010fabaec21604bcb8a">015675c51bf17010fabaec21604bcb8c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 11:38:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
