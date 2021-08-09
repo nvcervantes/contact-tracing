@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>100</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 08:44:20</sys_created_on>
+        <sys_id>9b80b7291b353010fabaec21604bcb3e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_675702_contact_t_contact_tracing</sys_name>
+        <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+        <sys_update_name>sys_db_view_table_9b80b7291b353010fabaec21604bcb3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 08:48:47</sys_updated_on>
+        <table>x_675702_contact_t_contact_tracing</table>
+        <variable_prefix>incidentsla</variable_prefix>
+        <view display_value="x_675702_contact_t_incident_sla_view">68afebe51b353010fabaec21604bcbc1</view>
+        <where_clause>sla_task =number</where_clause>
+    </sys_db_view_table>
+</record_update>

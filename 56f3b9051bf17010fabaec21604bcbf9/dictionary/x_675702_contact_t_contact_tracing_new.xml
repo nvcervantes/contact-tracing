@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Contact Tracing New" max_length="40" name="x_675702_contact_t_contact_tracing_new" sizeclass="10" type="collection">
+        <element attributes="import_attribute_name=Contact Number" label="Contact Number" max_length="40" name="u_contact_number" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Employee Name" label="Employee Name" max_length="40" name="u_employee_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Symptoms" label="Symptoms" max_length="40" name="u_symptoms" type="string"/>
+        <element attributes="import_attribute_name=Temperature" label="Temperature" max_length="15" name="u_temperature" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Travel History" label="Travel History" max_length="40" name="u_travel_history" type="string"/>
+    </element>
+</database>

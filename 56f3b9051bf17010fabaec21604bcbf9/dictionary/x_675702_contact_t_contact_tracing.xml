@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Contact Tracing" max_length="40" name="x_675702_contact_t_contact_tracing" sizeclass="0" type="collection">
+    <element audit="true" extends="task" label="Contact Tracing" max_length="40" name="x_675702_contact_t_contact_tracing" sizeclass="7" type="collection">
         <element label="Employee Name" mandatory="true" max_length="32" name="name" reference="sys_user" type="reference"/>
         <element attributes="encode_utf8=false" label="Assigned Group" max_length="32" name="u_assigned_group_9" reference="sys_user_group" type="reference"/>
         <element label="Travel History" max_length="40" name="u_boolean_5" type="boolean"/>
@@ -9,6 +9,15 @@
                 <element inactive_on_update="false" label="Lack of Smell" sequence="1" value="lack of smell"/>
                 <element inactive_on_update="false" label="Lack of Taste" sequence="2" value="lack of taste"/>
                 <element inactive_on_update="false" label="Dry Cough" sequence="3" value="dry cough"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Contact Number" mandatory="true" max_length="11" name="u_contact_number" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" choice="1" label="Symptoms" max_length="1024" name="u_glide_list_1" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Headache" value="Headache"/>
+                <element inactive_on_update="false" label="Lack of Smell" value="Lack of Smell"/>
+                <element inactive_on_update="false" label="Lack of Taste" value="Lack of Taste"/>
+                <element inactive_on_update="false" label="Dry Cough" sequence="0" value="Dry Cough"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Location" mandatory="true" max_length="40" name="u_location_1" type="string">
@@ -21,6 +30,8 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Contact Number" mandatory="true" max_length="11" name="u_string_3" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Symptoms" max_length="1024" name="u_symptoms" type="glide_list"/>
         <element label="Temperature" mandatory="true" max_length="15" name="u_temperature_2" type="decimal"/>
+        <element label="Travel History" max_length="40" name="u_travel_history" type="boolean"/>
     </element>
 </database>

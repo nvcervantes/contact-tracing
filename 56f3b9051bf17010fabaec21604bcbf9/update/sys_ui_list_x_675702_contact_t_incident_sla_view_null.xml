@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_675702_contact_t_incident_sla_view" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_active</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>82f0fb291b353010fabaec21604bcb1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_activity_due</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>0af0fb291b353010fabaec21604bcb1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_additional_assignee_list</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>8af0fb291b353010fabaec21604bcb1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_approval</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>0ef0fb291b353010fabaec21604bcb1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_approval_history</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>8ef0fb291b353010fabaec21604bcb1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_approval_set</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>02f0fb291b353010fabaec21604bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_assigned_to</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>82f0fb291b353010fabaec21604bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_assignment_group</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>06f0fb291b353010fabaec21604bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_business_duration</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>86f0fb291b353010fabaec21604bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>incidentsla_business_service</element>
+            <list_id display_value="x_675702_contact_t_incident_sla_view" element="NULL" name="x_675702_contact_t_incident_sla_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">caf0fb291b353010fabaec21604bcb1b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_id>0af0fb291b353010fabaec21604bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_675702_contact_t_incident_sla_view</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 08:45:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>caf0fb291b353010fabaec21604bcb1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_675702_contact_t_incident_sla_view</sys_name>
+            <sys_package display_value="Contact Tracing Application" source="x_675702_contact_t">56f3b9051bf17010fabaec21604bcbf9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contact Tracing Application">56f3b9051bf17010fabaec21604bcbf9</sys_scope>
+            <sys_update_name>sys_ui_list_x_675702_contact_t_incident_sla_view_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 08:45:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
